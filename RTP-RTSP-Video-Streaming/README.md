@@ -1,0 +1,1 @@
+Adapted from Socket Programming A6: Video Streaming with RTSP and RTP from Computer Networking: A Top-Down Approach by Jim Kurose and Keither Ross
